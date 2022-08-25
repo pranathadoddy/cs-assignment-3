@@ -26,6 +26,16 @@ kemudian di click forward pada burp suite
 
 ![image](https://user-images.githubusercontent.com/6330046/186659416-bc216ccf-3c85-441c-a94b-268bba0b518f.png)
 
+5. Challenge 5
+
+Ubah request header menggunakan burp suite pada request cookie ubah cookie value dengan key labs-tegal1137 dengan value javascript <script>alert('Test XSS Referer')</script>
+kemudian di click forward pada burp suite
+
+![image](https://user-images.githubusercontent.com/6330046/186661297-a1ac612e-76aa-4573-81ce-d6a707c525fa.png)
+
+
+
+
 
 
 
