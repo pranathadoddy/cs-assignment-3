@@ -33,7 +33,14 @@ kemudian di click forward pada burp suite
 
 ![image](https://user-images.githubusercontent.com/6330046/186661297-a1ac612e-76aa-4573-81ce-d6a707c525fa.png)
 
-8. Challenge 8
+7. Challenge 8
+
+buat sebuah file dengan nama <img src=x onerror=alert('test')> dan upload file tersebut
+
+![image](https://user-images.githubusercontent.com/6330046/186710526-e27e058f-0304-4ae8-8a49-39c6744e2eab.png)
+
+
+8. Challenge 9
 
 Encode script javascript menggunakan burpsuite dan inject di query string url
 
