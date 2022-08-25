@@ -33,6 +33,21 @@ kemudian di click forward pada burp suite
 
 ![image](https://user-images.githubusercontent.com/6330046/186661297-a1ac612e-76aa-4573-81ce-d6a707c525fa.png)
 
+8. Challenge 8
+
+Encode script javascript menggunakan burpsuite dan inject di query string url
+
+![image](https://user-images.githubusercontent.com/6330046/186692248-b5c06623-cfa2-4e9d-9d2e-290bd25ca446.png)
+
+9. Challenge 10
+
+Karena kita tidak bisa menggunakan alert saya ganti menggunakan confirm dan inject di query string url
+
+![image](https://user-images.githubusercontent.com/6330046/186692702-161408eb-26e3-4dad-acea-706bbfdb47f4.png)
+
+
+
+
 
 
 
