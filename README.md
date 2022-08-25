@@ -33,6 +33,13 @@ kemudian di click forward pada burp suite
 
 ![image](https://user-images.githubusercontent.com/6330046/186661297-a1ac612e-76aa-4573-81ce-d6a707c525fa.png)
 
+6. Challenge 7
+
+Manipulasi warning message dengan menggunakan script <script>alert('Test XSS')</script>
+
+![image](https://user-images.githubusercontent.com/6330046/186712284-df15be92-f97b-4442-889d-a58865f3caf9.png)
+
+
 7. Challenge 8
 
 buat sebuah file dengan nama <img src=x onerror=alert('test')> dan upload file tersebut
